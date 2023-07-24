@@ -1,0 +1,6 @@
+1. Require all the node modules
+2. Require Mongoose 
+3. Connect to your local mongodb server
+4. Using postman you can use the api
+
+(Due to lack of credit card I am unable to deploy my API in web)
